@@ -1,0 +1,4 @@
+#+TITLE: Setup Instructions
+
+* Setup Instructions
+  Run: ~make~

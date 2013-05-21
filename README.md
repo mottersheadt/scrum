@@ -1,4 +1,0 @@
-scrum
-=====
-
-Scrum managing system.

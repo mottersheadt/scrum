@@ -1,0 +1,6 @@
+.story {
+   display: block;
+   page-break-after: always;
+   position:relative;
+   margin-top:275px;
+ }

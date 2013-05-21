@@ -1,0 +1,30 @@
+#+TITLE: User Guide for Codeigniter++
+
+* User Guide for Codeigniter++
+  
+** Codeigniter Extensions
+
+   - Modified Core Input
+   - Modified Core Log
+   - Added Pagination Config
+   - Added Logging Library
+   - Added JSON Helper
+   - Added Global Helper
+  
+** Included Libraries
+   
+   - *Chosen* - Advanced replacement for <select> form inputs.
+   - *jQuery* - Obviously...
+   - *Cookie.js* - Lightweight jQuery plugin for cookie management
+   - *Bootstrap* - HTML/CSS Library Built by Twitter
+     - Bootstrap Input Mask Extension
+     - Bootstrap File Upload Extension
+   - *Regula* - Javascript Form Validation Library
+   - *jscolor* - Javascript Popup Color Chooser for form inputs.
+   - *Assert.js* - Javascript Assertion Library for Unit Testing
+   - *Logging.js* - Javascript Console Logging Library
+  
+
+*** jquery.cookie.js
+    Documentation and Source Code
+    - [[https://github.com/carhartl/jquery-cookie]]

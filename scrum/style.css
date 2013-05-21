@@ -1,0 +1,34 @@
+.indent {
+   padding-left: 60px;
+   display: inline-block;
+}
+.item {
+   width: 650px;
+}
+.task {
+  display: block;
+  margin-bottom: 5px;
+}
+.info-text {
+  display: inline-block;
+  padding: 15px 20px 0 0;
+}
+.info-table {
+  margin: -20px auto 0;
+  width: 48%
+}
+.info-table .date {
+  width: 25%;
+}
+.info-table .who {
+  width: 60%;
+}
+.info-table tbody tr {
+  height: 29.5px;
+}
+.info-table .time {
+  width: 15%;
+}
+.info-table .total {
+  text-align: right;
+}
